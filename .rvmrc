@@ -1,0 +1,6 @@
+rvm 1.9.2@sample_app
+echo
+echo ------------------------
+echo Now using 1.9.2@sample_app
+echo ------------------------
+echo
